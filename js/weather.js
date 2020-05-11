@@ -1,4 +1,4 @@
-var json_url = "http://api.openweathermap.org/data/2.5/weather?q=Gdansk,pl&appid=f9b05e67912ed7d0cbbc9cc66904dab7";
+var json_url = "http://api.openweathermap.org/data/2.5/weather?q=Gdańsk,PL&appid=f9b05e67912ed7d0cbbc9cc66904dab7";
 var city;
 var temp_curr;
 var temp_low;
